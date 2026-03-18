@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "182.",
+  "base_artist": "¿?shimon",
+  "createdAt": "2026-03-18T15:36:25.387796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Down (feat. blink-182)",
+      "artist": "Oliver Tree feat. blink-182",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Down_(feat._blink-182)_Oliver_Tree_feat._blink-182.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Down (Blink 182)",
+      "artist": "Oliver Tree",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Down_(Blink_182)_Oliver_Tree.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "0906 - Blink-182 - Stay Together For The Kids",
+      "artist": "blink-182",
+      "has_synced": true,
+      "path": "select/03_0906_-_Blink-182_-_Stay_Together_For_The_Kids_blink-182.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Always (Blink 182)",
+      "artist": "Alex Melton",
+      "has_synced": true,
+      "path": "select/04_Always_(Blink_182)_Alex_Melton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feeling This (Blink 182)",
+      "artist": "Alex Melton",
+      "has_synced": false,
+      "path": "select/05_Feeling_This_(Blink_182)_Alex_Melton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up - Blink-182 Style",
+      "artist": "Alex Melton",
+      "has_synced": false,
+      "path": "select/06_Never_Gonna_Give_You_Up_-_Blink-182_Style_Alex_Melton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wonderwall - Blink-182 Style",
+      "artist": "Alex Melton",
+      "has_synced": true,
+      "path": "select/07_Wonderwall_-_Blink-182_Style_Alex_Melton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What's My Age Again? — Blink-182",
+      "artist": "Richard Cheese",
+      "has_synced": true,
+      "path": "select/08_What's_My_Age_Again__—_Blink-182_Richard_Cheese.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blink 182 - The Rock Show",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/09_Blink_182_-_The_Rock_Show_Various.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "P.S. I Hope You're Happy (feat. blink-182)",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/10_P.S._I_Hope_You're_Happy_(feat._blink-182)_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "P.S. I Hope You're Happy (feat. blink-182)",
+      "artist": "The Chainsmokers feat. blink-182",
+      "has_synced": true,
+      "path": "select/11_P.S._I_Hope_You're_Happy_(feat._blink-182)_The_Chainsmokers_feat._blink-182.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "P.S. I Hope You're Happy (feat. blink-182)",
+      "artist": "The Chainsmokers, blink-182",
+      "has_synced": true,
+      "path": "select/12_P.S._I_Hope_You're_Happy_(feat._blink-182)_The_Chainsmokers,_blink-182.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Really Wish I Hated You - blink-182",
+      "artist": "blink-182",
+      "has_synced": true,
+      "path": "select/13_I_Really_Wish_I_Hated_You_-_blink-182_blink-182.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "23 (Like the Blink-182 Song, but Without the Homophobia)",
+      "artist": "She/Her/hers",
+      "has_synced": true,
+      "path": "select/14_23_(Like_the_Blink-182_Song,_but_Without_the_Homophobia)_She_Her_hers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Time To Break Up (Blink-182 Cover)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/15_Time_To_Break_Up_(Blink-182_Cover)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Rock Harmony (Fifth Harmony vs. SOAD vs. Awolnation vs. Avicii vs. Blink‐182)",
+      "artist": "Mashup-Germany",
+      "has_synced": false,
+      "path": "select/16_The_Rock_Harmony_(Fifth_Harmony_vs._SOAD_vs._Awolnation_vs._Avicii_vs._Blink‐182_Mashup-Germany.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What's My Age Again (Originally by Blink 182)",
+      "artist": "Richard Cheese",
+      "has_synced": true,
+      "path": "select/17_What's_My_Age_Again_(Originally_by_Blink_182)_Richard_Cheese.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What's My Age Again (Blink-182)",
+      "artist": "Richard Cheese",
+      "has_synced": true,
+      "path": "select/18_What's_My_Age_Again_(Blink-182)_Richard_Cheese.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "182.",
+      "artist": "¿?shimon",
+      "has_synced": false,
+      "path": "select/pl_01_182._¿_shimon.txt"
+    }
+  ]
+}
